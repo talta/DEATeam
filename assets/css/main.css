@@ -603,6 +603,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
+		border-top: none;
 		position: relative;
 	}
 
@@ -1294,7 +1295,7 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			/*border: solid 1px #ffffff; */
 			border-radius: 100%;
 		}
 
